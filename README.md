@@ -1,1 +1,1 @@
-Предварительная версия на хосте: http://englishlist.lovestoblog.com
+Hosting example: http://englishlist.lovestoblog.com
